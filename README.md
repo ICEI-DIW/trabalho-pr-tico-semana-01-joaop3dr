@@ -3,7 +3,7 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: João Pedro Gomes da Silva
+Nome: João Pedro Gomes da Silva<br>
 Matricula: 838678
 
 ## Tela de inspeção com navegador
