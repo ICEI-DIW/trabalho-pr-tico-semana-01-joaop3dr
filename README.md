@@ -7,7 +7,7 @@ Nome: João Pedro Gomes da Silva<br>
 Matricula: 838678
 
 ## Tela de inspeção com navegador
+![image](img02.png)
 
-
-## Tela de projeto no Replit
-
+## Tela de projeto no VS CODE
+![image](img01.png)
